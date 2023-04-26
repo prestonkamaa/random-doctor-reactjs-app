@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/random-doctor-reactjs-app/static/css/main.5e2b2dcf.css",
+    "main.js": "/random-doctor-reactjs-app/static/js/main.d7dcfc9e.js",
+    "static/media/dr.png": "/random-doctor-reactjs-app/static/media/dr.91a2eabb37a252ecc05e.png",
+    "index.html": "/random-doctor-reactjs-app/index.html",
+    "main.5e2b2dcf.css.map": "/random-doctor-reactjs-app/static/css/main.5e2b2dcf.css.map",
+    "main.d7dcfc9e.js.map": "/random-doctor-reactjs-app/static/js/main.d7dcfc9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2b2dcf.css",
+    "static/js/main.d7dcfc9e.js"
+  ]
+}
